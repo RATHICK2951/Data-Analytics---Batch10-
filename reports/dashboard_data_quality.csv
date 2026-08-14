@@ -1,0 +1,10 @@
+Check,Value
+Total Rows,7043
+Total Columns,37
+Missing Values,0
+Duplicate Customer IDs,0
+Actual Churn Customers,1869
+Predicted Churn Customers,1624
+Low Risk Customers,4489
+Medium Risk Customers,1344
+High Risk Customers,1210

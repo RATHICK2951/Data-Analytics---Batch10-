@@ -1,0 +1,12 @@
+Report Name,File Path,Purpose
+Final Dashboard Dataset,reports/final_dashboard_dataset.csv,Main dashboard dataset
+Final Customer Analysis,reports/final_customer_analysis.csv,Customer-level churn and risk analysis
+Dashboard Summary,reports/dashboard_summary.csv,Overall business KPIs
+Dashboard Risk Summary,reports/dashboard_risk_summary.csv,Risk-level customer distribution
+Dashboard Churn Reasons,reports/dashboard_churn_reasons.csv,Churn reason analysis
+Dashboard Risk Charges,reports/dashboard_risk_charges.csv,Charges by risk level
+Final Dashboard KPIs,reports/final_dashboard_kpis.csv,Dashboard KPI metrics
+Final Business Insights,reports/final_business_insights.csv,Key business insights
+Business Recommendations,reports/business_recommendations.csv,Actionable business recommendations
+Dashboard Data Quality,reports/dashboard_data_quality.csv,Final data quality validation
+Chart Index,reports/chart_index.csv,Index of generated charts

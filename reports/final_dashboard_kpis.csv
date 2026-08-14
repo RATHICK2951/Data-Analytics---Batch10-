@@ -1,0 +1,16 @@
+KPI,Value
+Total Customers,7043.0
+Actual Churn Customers,1869.0
+Predicted Churn Customers,1624.0
+Actual Churn Rate,26.54
+Predicted Churn Rate,23.06
+Low Risk Customers,4489.0
+Medium Risk Customers,1344.0
+High Risk Customers,1210.0
+Average Monthly Charges,64.76
+Average Tenure Months,32.37
+Model Accuracy,78.78
+Model Precision,61.61
+Model Recall,53.21
+Model F1 Score,57.1
+Model ROC-AUC,83.37

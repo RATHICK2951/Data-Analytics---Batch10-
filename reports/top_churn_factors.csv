@@ -1,0 +1,31 @@
+Feature,Coefficient,Direction
+"cat__Lat Long_36.833002, -119.82947",1.3316653692373908,Increases Churn Risk
+cat__City_Smith River,1.2779631468662482,Increases Churn Risk
+"cat__Lat Long_41.950683, -124.097094",1.2779631468662482,Increases Churn Risk
+num__Tenure Months,-1.2758193890309917,Decreases Churn Risk
+cat__City_Running Springs,1.158232055389314,Increases Churn Risk
+"cat__Lat Long_34.186211, -117.07683",1.158232055389314,Increases Churn Risk
+"cat__Lat Long_38.646096, -121.442433",1.1563206240387434,Increases Churn Risk
+cat__City_Elk Grove,1.1529894674993268,Increases Churn Risk
+"cat__Lat Long_37.83726, -122.287648",1.0424906093480801,Increases Churn Risk
+cat__City_Emeryville,1.0424906093480801,Increases Churn Risk
+"cat__Lat Long_32.961064, -117.134917",1.0334166924547805,Increases Churn Risk
+"cat__Lat Long_33.762759, -116.324817",1.025768056793782,Increases Churn Risk
+cat__Dependents_Yes,-1.008893509984024,Decreases Churn Risk
+"cat__Lat Long_37.556634, -122.317723",1.00131390631952,Increases Churn Risk
+"cat__Lat Long_34.076259, -118.310715",1.0010117004158097,Increases Churn Risk
+cat__City_Bakersfield,-0.9894669065478822,Decreases Churn Risk
+cat__City_San Dimas,0.9883976328538339,Increases Churn Risk
+"cat__Lat Long_34.102119, -117.815532",0.9883976328538339,Increases Churn Risk
+"cat__Lat Long_34.432843, -118.730106",0.9843074635810812,Increases Churn Risk
+cat__City_Piru,0.9843074635810812,Increases Churn Risk
+cat__City_Seeley,0.963435837836646,Increases Churn Risk
+"cat__Lat Long_32.790282, -115.689559",0.963435837836646,Increases Churn Risk
+cat__City_Anaheim,-0.9496293493935652,Decreases Churn Risk
+"cat__Lat Long_37.612612, -121.108568",0.9469105430831464,Increases Churn Risk
+"cat__Lat Long_38.049292, -122.228415",0.9382606169533209,Increases Churn Risk
+cat__City_Crockett,0.9382606169533209,Increases Churn Risk
+"cat__Lat Long_33.840524, -118.148403",0.9279451589284461,Increases Churn Risk
+"cat__Lat Long_33.987945, -118.370442",0.9258100058448455,Increases Churn Risk
+"cat__Lat Long_34.437945, -119.77191",0.9119726903669372,Increases Churn Risk
+cat__City_Vallecito,0.9069202448832845,Increases Churn Risk

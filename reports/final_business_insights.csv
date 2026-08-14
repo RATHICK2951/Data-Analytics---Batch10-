@@ -1,0 +1,11 @@
+Insight,Value
+Total Customer Base,7043
+Overall Churn Rate,26.54
+Actual Churn Customers,1869
+Predicted Churn Customers,1624
+High-Risk Customers,1210
+Medium-Risk Customers,1344
+Low-Risk Customers,4489
+Average Monthly Charges,64.76
+Average Tenure,32.37
+Top Churn Reason,Attitude of support person
