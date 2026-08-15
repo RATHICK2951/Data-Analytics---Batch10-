@@ -1,6 +1,6 @@
 Model,Metric,Score
-Logistic Regression,Accuracy,78.78
-Logistic Regression,Precision,61.61
-Logistic Regression,Recall,53.21
-Logistic Regression,F1_Score,57.1
-Logistic Regression,ROC_AUC,83.37
+Logistic Regression,Accuracy,85.82
+Logistic Regression,Precision,76.79
+Logistic Regression,Recall,66.72
+Logistic Regression,F1_Score,71.4
+Logistic Regression,ROC_AUC,90.92
