@@ -4,7 +4,7 @@ from sqlalchemy import create_engine
 
 def run_production_ingestion(file_relative_path: str):
     DB_USER = "postgres"
-    DB_PASS = "postgres123"  # Make sure this matches your local PG installer password
+    DB_PASS = os.getenv("DB_PASSWORD", "postgres123")
     DB_HOST = "localhost"
     DB_PORT = "5432"
     DB_NAME = "zaalima_analytics"
@@ -25,7 +25,7 @@ def run_production_ingestion(file_relative_path: str):
         df['totalcharges'] = df['totalcharges'].fillna(0.0)
     
     print(f"🚀 Streaming {len(df)} records directly to PostgreSQL server...")
-    df.to_sql(name="raw_customer_churn", con=engine, if_exists="replace", index=False)
+    df.to_sql(name="raw_customer_churn", con=engine, if_exists="append", index=False)
     print("✅ Ingestion successfully completed! PostgreSQL database is online.")
 
 if __name__ == "__main__":
