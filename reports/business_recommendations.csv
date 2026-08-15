@@ -1,0 +1,7 @@
+Priority,Recommendation,Reason,Target Customers
+High,Focus retention campaigns on High-Risk customers,1210 customers are classified as High Risk,1210
+High,Improve customer support experience,Support-related issues are the leading churn reason,192
+High,Review competitor pricing and data offers,Competitor offers are among the major churn reasons,351
+Medium,Target customers with high monthly charges,High-risk customers have higher average monthly charges,1210
+Medium,Improve network reliability and service quality,Network reliability is a significant churn reason,103
+Low,Monitor Low-Risk customers for early warning signals,4489 customers are currently classified as Low Risk,4489

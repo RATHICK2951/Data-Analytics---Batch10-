@@ -1,0 +1,14 @@
+Chart File,Dashboard Category,Path
+actual_vs_predicted_churn.png,Model Comparison,reports/charts/actual_vs_predicted_churn.png
+business_overview.png,Business Overview,reports/charts/business_overview.png
+churn_probability_distribution.png,Churn Probability,reports/charts/churn_probability_distribution.png
+churn_reasons.png,Churn Reasons,reports/charts/churn_reasons.png
+confusion_matrix.png,Model Evaluation,reports/charts/confusion_matrix.png
+high_risk_customers.png,High-Risk Customers,reports/charts/high_risk_customers.png
+model_performance.png,Model Performance,reports/charts/model_performance.png
+risk_distribution.png,Risk Analysis,reports/charts/risk_distribution.png
+risk_distribution_dashboard.png,Risk Distribution,reports/charts/risk_distribution_dashboard.png
+risk_level_monthly_charges.png,Risk Charges,reports/charts/risk_level_monthly_charges.png
+roc_curve.png,ROC-AUC,reports/charts/roc_curve.png
+top_20_high_risk_customers.png,High-Risk Customers,reports/charts/top_20_high_risk_customers.png
+top_churn_factors.png,Churn Factors,reports/charts/top_churn_factors.png

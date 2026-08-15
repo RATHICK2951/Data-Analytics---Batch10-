@@ -1,0 +1,7 @@
+Metric,Value
+Total Customers,7043
+Actual Churn Customers,1869
+Predicted Churn Customers,1624
+Low Risk Customers,4489
+Medium Risk Customers,1344
+High Risk Customers,1210
