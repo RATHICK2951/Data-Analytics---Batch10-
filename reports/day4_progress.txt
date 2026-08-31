@@ -1,1 +1,2 @@
 Day 4 - Churn model refinement and project development progress 
+Model refinement and analysis documentation updated. 
