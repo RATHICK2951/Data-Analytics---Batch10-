@@ -1,1 +1,2 @@
 Day 6 - Churn model analysis and project development progress 
+Documentation reviewed and project progress notes updated. 
