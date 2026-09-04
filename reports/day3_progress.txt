@@ -1,0 +1,2 @@
+Day 3 - Churn model validation and project development progress 
+Model validation completed and performance metrics reviewed. 

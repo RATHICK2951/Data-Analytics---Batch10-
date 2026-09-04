@@ -1,0 +1,2 @@
+Day 7 - Churn model analysis and validation progress 
+Validation results reviewed and documented for the churn model. 

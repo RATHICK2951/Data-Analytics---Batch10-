@@ -1,0 +1,2 @@
+Churn prediction analysis and performance review completed. 
+Model results and project observations documented. 
