@@ -1,0 +1,15 @@
+I worked on the Render part and understood how we can deploy our API online so that everyone in the team can access it using a public link. I also checked how to connect our GitHub repo with Render and what access and deployment settings are required. Since the repo is under my GitHub account, I’m working on giving Render the required access so the API can be deployed and tested.
+
+SHAP Analysis Summary
+
+Worked on model explainability using SHAP (SHapley Additive exPlanations) to understand which features influence the customer churn predictions.
+
+A separate SHAP notebook was created where the XGBoost model was trained and TreeExplainer was used to calculate SHAP values. A global SHAP summary plot was created to identify the features that have the highest overall influence on the model predictions. The SHAP beeswarm plot was also used to understand both the importance and direction of feature impacts.
+
+The analysis showed that features such as Contract (especially month-to-month), Tenure Months, Monthly Charges, Total Charges, Tech Support, Online Security, Payment Method and Internet Service had significant influence on the churn predictions.
+
+Individual customer-level explainability was also performed using a SHAP waterfall plot. For the selected high-priority customer 0295-PPHDO, the model predicted a churn probability of about 89.97%. The waterfall plot showed how individual features contributed to this prediction, with Tenure Months and Month-to-month Contract being among the strongest contributors.
+
+Along with SHAP analysis, churn probability was combined with CLTV to calculate a Retention Priority score. This helped identify customers who have both a high likelihood of churn and high customer value. Customers were then grouped into retention segments such as Critical, Valuable at Risk and Lower Priority.
+
+This analysis helps convert the ML model from just predicting churn into explaining why a customer is considered risky and which customers should be prioritized for retention.
