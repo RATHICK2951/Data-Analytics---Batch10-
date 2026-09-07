@@ -1,1 +1,2 @@
 Day 8 churn model analysis and validation update.
+Day 8 - Churn model performance metrics reviewed and validation results documented.
