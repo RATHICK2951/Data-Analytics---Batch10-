@@ -1,1 +1,2 @@
 Day 9 project progress update 
+Day 9 - Churn model feature engineering and data preparation completed.
