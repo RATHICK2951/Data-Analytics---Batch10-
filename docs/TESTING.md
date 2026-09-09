@@ -15,6 +15,24 @@ The objective of testing was to verify that all API endpoints function correctly
 - Container URL: http://127.0.0.1:8001/docs
 - Containerization: Docker
 
+## Public API Deployment
+
+Platform: Render
+Public API URL: https://data-analytics-batch10.onrender.com
+
+Swagger API Documentation:
+https://data-analytics-batch10.onrender.com/docs
+
+Health Check:
+https://data-analytics-batch10.onrender.com/health
+
+Available endpoints:
+
+GET /
+GET /health
+POST /predict
+POST /batch_predict
+
 
 
 # API Endpoints
