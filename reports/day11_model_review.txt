@@ -1,0 +1,1 @@
+Day 11 - Reviewed the churn prediction workflow and validated the Role 4 model outputs, including prediction results, evaluation metrics, churn probabilities, and generated reports. This review helped confirm that the model outputs were consistent and ready for the next stage of project integration.
