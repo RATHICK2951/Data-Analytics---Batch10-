@@ -9,8 +9,8 @@ Medium Risk Customers,1344.0
 High Risk Customers,1210.0
 Average Monthly Charges,64.76
 Average Tenure Months,32.37
-Model Accuracy,78.78
-Model Precision,61.61
-Model Recall,53.21
-Model F1 Score,57.1
-Model ROC-AUC,83.37
+Model Accuracy,85.82
+Model Precision,76.79
+Model Recall,66.72
+Model F1 Score,71.4
+Model ROC-AUC,90.92
